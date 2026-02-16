@@ -1,12 +1,34 @@
 # Trading System Governance (Evidence-Based)
 
+<p align="center">
+  <a href="https://lamplight88.gumroad.com/l/lep-v1">
+    <img alt="Buy LEP v1 on Gumroad" src="https://img.shields.io/badge/BUY%20LEP%20v1%20ON%20GUMROAD-Instant%20Download-2ea44f?style=for-the-badge">
+  </a>
+</p>
+
 Built to enforce one-change-per-run, evidence gates, and traceable decisions—so you stop “one more tweak” iterations.
 
 Evidence-based governance workflow for systematic trading R&D: change proposals, experiment logs, release/rollback discipline.
 
 **Not a bot. Not signals. Not executable trading code.**
 
-> ✅ **Get LEP v1 (Instant download):** <https://lamplight88.gumroad.com/l/lep-v1>
+---
+
+## Get LEP v1 (Instant download)
+
+➡️ **Buy / Download:** <https://lamplight88.gumroad.com/l/lep-v1>
+
+> This public repo is an informational overview only. The full LEP v1 package is delivered via Gumroad.
+
+---
+
+## Repo docs (read first)
+
+- Disclaimer: [DISCLAIMER.md](DISCLAIMER.md)
+- Support policy: [SUPPORT.md](SUPPORT.md)
+- License: [LICENSE.md](LICENSE.md)
+- Changelog: [CHANGELOG.md](CHANGELOG.md)
+- Contributing: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
@@ -51,11 +73,20 @@ It helps you run disciplined iteration with **one-change-per-run**, evidence gat
 
 ## License & policies (summary)
 
-- Self-serve only. No support or consulting.
-- Personal/internal use only. No reselling or redistribution.
-- Version lock: you are purchasing LEP v1.x as-is.
-- Case study metrics are educational “reality filter” examples — not performance claims.
+- Self-serve only. No support or consulting. (See: [SUPPORT.md](SUPPORT.md))
+- Personal/internal use only. No reselling or redistribution. (See: [LICENSE.md](LICENSE.md))
+- Version lock: you are purchasing LEP v1.x as-is. (See: [CHANGELOG.md](CHANGELOG.md))
+- Case study metrics are educational “reality filter” examples — not performance claims. (See: [DISCLAIMER.md](DISCLAIMER.md))
+
+---
 
 ## Get LEP v1
+
+<p align="center">
+  <a href="https://lamplight88.gumroad.com/l/lep-v1">
+    <img alt="Buy LEP v1 on Gumroad" src="https://img.shields.io/badge/BUY%20LEP%20v1%20ON%20GUMROAD-Instant%20Download-2ea44f?style=for-the-badge">
+  </a>
+</p>
+
 ➡️ **Buy / Download:** <https://lamplight88.gumroad.com/l/lep-v1>
 
