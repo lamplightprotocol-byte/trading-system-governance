@@ -26,8 +26,8 @@ Evidence-based governance workflow for systematic trading R&D: change proposals,
 
 - Disclaimer: [DISCLAIMER.md](DISCLAIMER.md)
 - Support policy: [SUPPORT.md](SUPPORT.md)
-- License: [LICENSE.md](LICENSE.md)
-- Changelog: [CHANGELOG.md](CHANGELOG.md)
+- Repo license: [LICENSE.md](LICENSE.md)
+- Repo changelog: [CHANGELOG.md](CHANGELOG.md)
 - Contributing: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
@@ -73,10 +73,10 @@ It helps you run disciplined iteration with **one-change-per-run**, evidence gat
 
 ## License & policies (summary)
 
-- Self-serve only. No support or consulting. (See: [SUPPORT.md](SUPPORT.md))
-- Personal/internal use only. No reselling or redistribution. (See: [LICENSE.md](LICENSE.md))
-- Version lock: you are purchasing LEP v1.x as-is. (See: [CHANGELOG.md](CHANGELOG.md))
-- Case study metrics are educational “reality filter” examples — not performance claims. (See: [DISCLAIMER.md](DISCLAIMER.md))
+- **Self-serve only. No support or consulting.** (See: [SUPPORT.md](SUPPORT.md))
+- **Public repo content license:** informational overview only. No open-source license granted. (See: [LICENSE.md](LICENSE.md))
+- **Commercial package terms/license:** the purchased LEP v1 package includes its own Terms & License (personal/internal use; no reselling/redistribution). See the included policy documents inside the purchased package.
+- **Case study metrics are educational “reality filter” examples** — not performance claims. (See: [DISCLAIMER.md](DISCLAIMER.md))
 
 ---
 
@@ -89,4 +89,5 @@ It helps you run disciplined iteration with **one-change-per-run**, evidence gat
 </p>
 
 ➡️ **Buy / Download:** <https://lamplight88.gumroad.com/l/lep-v1>
+
 
