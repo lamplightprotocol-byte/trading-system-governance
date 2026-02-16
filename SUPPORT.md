@@ -1,7 +1,20 @@
-This repo is public overview only
+# Support Policy
 
-No support / no consulting
+This public repository is an **informational overview** for LEP v1 only.
 
-Link to product page
+## No support / no consulting
 
-Where to read docs (START_HERE inside ZIP)
+LEP v1 is a **self-serve** product.
+We do **not** provide:
+- technical support
+- consulting
+- strategy review
+- performance troubleshooting
+
+## Where to start (after purchase)
+
+The full LEP v1 package is delivered via Gumroad.
+Start with **START_HERE** inside the ZIP.
+
+Product page:
+<https://lamplight88.gumroad.com/l/lep-v1>
